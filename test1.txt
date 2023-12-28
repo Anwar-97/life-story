@@ -3,4 +3,8 @@ I have done my dakhil in 2001
 I have completed my Alim  in 2003
 I have  completed my masters in hadis in 2007
 I have completed my honours in 2005
+<<<<<<< HEAD
 I have started my business on december 5th
+=======
+I hav1e started my  web development learning course
+>>>>>>> fee7ff725986b24898b60b98da9e6f485cd78413
